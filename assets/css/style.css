@@ -11,6 +11,18 @@
 
 }
 
+.choice{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+.jumbotron{
+    background-color: black
+}
+
 .card-header{
     color: white;
     background-color: black;
